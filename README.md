@@ -1,5 +1,7 @@
 # Domain-Specific RAG Chatbot for PDF Question Answering
+## Live Application
 
+🔗 **Streamlit App:** https://domainragchatbot-bnmaj4eotcuwc5vjaphmy4.streamlit.app/
 ## 1. Project Overview
 
 This project is a domain-specific Retrieval-Augmented Generation (RAG) chatbot that answers questions using information from uploaded PDF documents.
